@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-   int n=0, b=1, a=0, a=0, c0;
+int main() 
+{
+   int n=0,b=1,a=0,c=0;
    cin>>n; 
    
    cout<<b<<endl;
